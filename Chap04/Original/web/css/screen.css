@@ -114,4 +114,7 @@ body {
 	text-align: center;
 	line-height: 21px;
 }
-#footer ul{list-style-type: none;margin: 0;padding: 0;display: flex;}
+#footer ul{list-style-type: none;margin: 0;padding: 0;display: flex; justify-content:center;}
+#footer ul li a{color: #fff;text-decoration: none;padding: 0 1em; border-left: 1px solid;}
+#footer ul li:last-child a{border-right: 1px solid;}
+#footer ul li a:hover{background: #FFF; color: #000;}
