@@ -28,9 +28,18 @@ body {
 	color: #FFF;
 }
 #nav ul{list-style-type: none;margin: 0;padding: 0;display: flex; justify-content:center;}
-#nav ul li a{width: 132px;height: 38px;display: block;background: #ff0;}
-#nav ul li a:hover{background: #78FC6D;}
+#nav ul li a{width: 132px;height: 38px;display: block;}
+#nav ul li:nth-child(1) a{background:url(../images/nav/about_out.png);}
+#nav ul li:nth-child(2) a{background:url(../images/nav/news_out.png);}
+#nav ul li:nth-child(3) a{background:url(../images/nav/menu_out.png);}
+#nav ul li:nth-child(4) a{background:url(../images/nav/reservations_out.png);}
+#nav ul li:nth-child(5) a{background:url(../images/nav/contact_out.png);}
 
+#nav ul li:nth-child(1) a:hover{background:url(../images/nav/about_over.png);}
+#nav ul li:nth-child(2) a:hover{background:url(../images/nav/news_over.png);}
+#nav ul li:nth-child(3) a:hover{background:url(../images/nav/menu_over.png);}
+#nav ul li:nth-child(4) a:hover{background:url(../images/nav/reservations_over.png);}
+#nav ul li:nth-child(5) a:hover{background:url(../images/nav/contact_over.png);}
 
 #wrapper #main {
 	float: left;
