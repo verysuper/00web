@@ -28,7 +28,7 @@ body {
 	color: #FFF;
 }
 #nav ul{list-style-type: none;margin: 0;padding: 0;display: flex; justify-content:center;}
-#nav ul li a{width: 132px;height: 38px;display: block;}
+#nav ul li a{width: 132px;height: 38px;display: block; text-indent:-9999px;}
 #nav ul li:nth-child(1) a{background:url(../images/nav/about_out.png);}
 #nav ul li:nth-child(2) a{background:url(../images/nav/news_out.png);}
 #nav ul li:nth-child(3) a{background:url(../images/nav/menu_out.png);}
