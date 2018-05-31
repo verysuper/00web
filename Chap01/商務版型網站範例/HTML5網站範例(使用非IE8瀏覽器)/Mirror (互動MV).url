@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://sour-mirror.jp/index.html
+[DOC#56]
+BASEURL=http://platform0.twitter.com/widgets/tweet_button.html?count=none&text=SOUR%e3%80%8c%e6%98%a0%e3%81%97%e9%8f%a1%e3%80%8d%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%a9%e3%82%af%e3%83%86%e3%82%a3%e3%83%96%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%83%e3%82%af%e3%83%93%e3%83%87%e3%82%aa%20%23sourmirror&url=http%3a%2f%2fsour%2dmirror%2ejp%2f&lang=en
+ORIGURL=http://platform0.twitter.com/widgets/tweet_button.html?count=none&text=SOUR%e3%80%8c%e6%98%a0%e3%81%97%e9%8f%a1%e3%80%8d%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%a9%e3%82%af%e3%83%86%e3%82%a3%e3%83%96%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%83%e3%82%af%e3%83%93%e3%83%87%e3%82%aa%20%23sourmirror&url=http%3a%2f%2fsour%2dmirror%2ejp%2f&lang=en
+[InternetShortcut]
+URL=http://sour-mirror.jp/index.html
+IDList=
+IconFile=http://sour-mirror.jp/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

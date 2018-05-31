@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.redbullstratos.com/the-mission/mission-timeline/
+[DOC__atssh610]
+BASEURL=http://ct5.addthis.com/static/r07/sh102.html
+ORIGURL=//ct5.addthis.com/static/r07/sh102.html#iit=1350542104125&tmr=load%3D1350542100750%26core%3D1350542102500%26main%3D1350542104125%26ifr%3D1350542104125&cb=0&cdn=5&chr=utf-8&kw=&ab=-&dh=www.redbullstratos.com&dr=http%3A%2F%2Fwww.facebook.com%2Fl.php%3Fu%3Dhttp%253A%252F%252Fwww.redbullstratos.com%252Fthe-mission%252Fmission-timeline%252F%26h%3DKAQEIEWGl&du=http%3A%2F%2Fwww.redbullstratos.com%2Fthe-mission%2Fmission-timeline%2F&dt=Mission%20Timeline%20%7C%20Red%20Bull%20Stratos&dbg=0&md=0&cap=tc%3D0%26ab%3D0&inst=1&irt=0&jsl=8225&lng=zh-tw&ogt=site_name%2Cimage%2Curl%2Cdescription%2Ctype%3Darticle%2Ctitle&pc=men&pub=ra-4f0717676e071577&ssl=0&sid=507fa316b12a56c8&srpl=0.00001&srd=0&srf=0.02&srp=0.2&srl=1&srx=1&ver=300&xck=0&xtr=0&og=title%3DMission%2520Timeline%26type%3Darticle%26description%3DRed%2520Bull%2520Stratos%2520is%2520a%2520scientific%2520mission%2520to%2520120%252C000%2520ft.%2520Jumping%2520from%2520a%2520stratospheric%2520balloon%2520one%2520man%2520will%2520attempt%2520to%2520break%2520the%2520speed%2520of%2520sound%2520in%2520freefall.%26url%3Dhttp%253A%252F%252Fwww.redbullstratos.com%252Fthe-mission%252Fmission-timeline%252F%26image%3Dhttp%253A%252F%252Fwww.redbullstratos.com%252Fassets%252Fimages%252Flogo.png%26site_name%3DRed%2520Bull%2520Stratos&rev=117490&ct=1&xld=1&xd=1
+[DOC#123]
+BASEURL=https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.redbullstratos.com%2Fthe-mission%2Fmission-timeline%2F&send=false&layout=button_count&width=450&show_faces=false&action=like&colorscheme=light&font&height=21&appId=366799946663567
+ORIGURL=//www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.redbullstratos.com%2fthe-mission%2fmission-timeline%2f&send=false&layout=button_count&width=450&show_faces=false&action=like&colorscheme=light&font&height=21&appId=366799946663567
+[InternetShortcut]
+URL=http://www.redbullstratos.com/the-mission/mission-timeline/
+IDList=
+IconFile=http://www.redbullstratos.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

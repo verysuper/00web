@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+max-width: 1000px;
+margin: auto;
+}
+
+header{width: 100%;background:url("source/photo01.jpg");height: 188px;display: flex; justify-content:flex-end; align-items:center;}
+
+header img{margin: 0 10px;}
+header img:last-child{margin-right: 50px;}

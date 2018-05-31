@@ -1,0 +1,27 @@
+[DEFAULT]
+BASEURL=http://tabelog.com/
+[DOC_google_ads_iframe_/116070306/t/top/140x830_l_0]
+BASEURL=http://tabelog.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/t/top/140x830_l_0__hidden__]
+BASEURL=http://tabelog.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/t/top/140x830_r_0]
+BASEURL=http://tabelog.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/t/top/300x250_0]
+BASEURL=http://tabelog.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_aswift_0]
+BASEURL=http://tabelog.com/
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+Prop17=31,http://image1-2.tabelog.k-img.com/images/window/ms-pin-icon.png?20140320
+Prop16=19,3
+Prop18=31,#f6ab09
+[InternetShortcut]
+URL=http://tabelog.com/
+IDList=
+IconFile=http://image1-1.tabelog.k-img.com/favicon.ico?20121108
+IconIndex=1

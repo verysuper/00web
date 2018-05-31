@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=https://www.google.com.tw/search?q=%E5%85%8D%E8%B2%BB%E6%9E%B6%E7%AB%99%E7%A9%BA%E9%96%93&oq=%E5%85%8D%E8%B2%BB%E6%9E%B6%E7%AB%99%E7%A9%BA%E9%96%93&gs_l=serp.3..0l3j0i30l2.36820.45743.0.46571.22.21.1.0.0.0.848.2516.3j2j2j6-2.9.0....0...1.1j4.64.serp..12.3.453.kI1ZqoXzUjk
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.google.com.tw/search?q=虛擬主機
+IconFile=https://www.google.com.tw/images/branding/product/ico/googleg_lodp.ico
+IconIndex=1
+HotKey=0
+[InternetShortcut.A]
+URL=https://www.google.com.tw/search?q=虛擬主機
+[InternetShortcut.W]
+URL=https://www.google.com.tw/search?q+AD2GW2TsTjtqXw-

@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://www.adobe.com/tw/products/creativesuite.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.adobe.com/tw/products/catalog.html
+IDList=
+IconFile=https://wwwimages2.adobe.com/include/img/favicon.ico
+IconIndex=1
+HotKey=0

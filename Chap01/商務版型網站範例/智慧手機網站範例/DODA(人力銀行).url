@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://doda.jp/
+[DOC#34]
+BASEURL=http://4062296.fls.doubleclick.net/activityi;src=4062296;type=rtgww071;cat=rtg_t315;ord=2730512401943;~oref=http%3A%2F%2Fdoda.jp%2F?
+ORIGURL=//4062296.fls.doubleclick.net/activityi;src=4062296;type=rtgww071;cat=rtg_t315;ord=2730512401943;~oref=http%3A%2F%2Fdoda.jp%2F?
+[InternetShortcut]
+URL=http://doda.jp/
+IDList=
+IconFile=http://doda.jp/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://mrdoob.com/projects/harmony/index.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://mrdoob.com/projects/harmony/index.html
+IDList=
+IconFile=http://mrdoob.com/favicon.ico
+IconIndex=1

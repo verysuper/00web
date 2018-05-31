@@ -1,0 +1,43 @@
+@charset "utf-8";
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 100%;
+	color: #066;
+	background-color: #CC9;
+}
+h1 {
+	font-size: 1em;
+	color: #036;
+}
+h2 {
+	font-size: 0.875em;
+	color: #930;
+}
+ul {
+	font-size: 0.75em;
+	color: #060;
+}
+p {
+	font-size: 0.75em;
+	color: #000;
+}
+.emphasize {
+	font-weight: bold;
+	color: #F00;
+}
+a:link {
+	color: #90C;
+	text-decoration: none;
+}
+a:visited {
+	color: #009;
+	text-decoration: none;
+}
+a:hover {
+	color: #90C;
+	text-decoration: underline;
+}
+a:active {
+	color: #99C;
+	text-decoration: none;
+}

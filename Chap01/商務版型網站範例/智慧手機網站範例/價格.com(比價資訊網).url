@@ -1,0 +1,39 @@
+[DEFAULT]
+BASEURL=http://kakaku.com/
+[DOC_google_ads_iframe_/116070306/k/header_text_0]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/k/header_text_0__hidden__]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/k/top_468x60_0]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/k/top_468x60_0__hidden__]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/k/top_text1_0]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/k/top_text1_0__hidden__]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/k/top_text2_0]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/k/top_text2_0__hidden__]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/k/top_300x250_0]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/116070306/k/top_300x250_0__hidden__]
+BASEURL=http://kakaku.com/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://kakaku.com/
+IDList=
+IconFile=http://img1.kakaku.k-img.com/images/favicon/kakaku_favicon.ico
+IconIndex=1

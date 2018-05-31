@@ -1,0 +1,246 @@
+@charset "utf-8";
+
+body {
+	background-color: #fff;
+	font-size: 62.5%;
+	margin: 0;
+	padding: 0;
+}
+body * {
+	font-size: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+p {
+	margin-bottom: 1.1em;
+	margin-top: 0;
+}
+#main p.lastNode {
+	margin-bottom: 0;
+}
+a:link img, a:visited img {
+	border: none;
+}
+div.clearFloat {
+	clear: both;
+	font-size: 0;
+	height: 0;
+	line-height: 0px;
+}
+li.clearFloat {
+	clear: both;
+}
+ul.symbolList {
+	display: inline;
+	float: left;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.AbsWrap {
+	position: relative;
+	width: 100%;
+}
+.rowWrap {
+	width: 100%;
+}
+#main {
+	margin: 0 auto 0 0;
+	width: 1000px;
+}
+#header {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-image: url(images/header.png);
+	overflow: hidden;
+	display: inline;
+	float: left;
+	height: 188px;
+	margin-bottom: 0;
+	width: 1000px;
+}
+#線段 {
+	margin-left: 0px;
+	margin-top: -2px;
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+	border-left: 1px solid #fff;
+	height: 188px;
+	width: 1px;
+}
+html > body #線段 {
+	height: auto;
+	min-height: 188px;
+}
+#nav {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-image: url(images/nav.png);
+	overflow: hidden;
+	display: inline;
+	float: left;
+	height: 42px;
+	margin-bottom: 0;
+	width: 1000px;
+}
+#Box3SliceContainer {
+	margin-left: 26px;
+	margin-top: 11px;
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+	width: 570px;
+	background-image: url(images/content_bg.png);
+	background-repeat: repeat;
+}
+#Box3SliceContainer_top_1 {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-image: url(images/content_top.png);
+	overflow: hidden;
+	display: inline;
+	float: left;
+	height: 68px;
+	margin-bottom: 0;
+	width: 570px;
+}
+#Div {
+	margin-left: 9px;
+	margin-top: -61px;
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+	background-color: #333;
+	width: 550px;
+	padding-top: 0px;
+	height: 44px;
+}
+html > body #Div {
+	height: auto;
+	min-height: 45px;
+}
+#Box3SliceContainer_bottom_1 {
+	margin-left: 0px;
+	margin-top: 213px;
+	background-image: url(images/content_bot.png);
+	overflow: hidden;
+	display: inline;
+	float: left;
+	height: 27px;
+	margin-bottom: 0;
+	width: 570px;
+}
+#Box3SliceContainer2 {
+	margin-right: 26px;
+	margin-top: 11px;
+	display: inline;
+	float: right;
+	margin-bottom: 0;
+	width: 315px;
+	background-image: url(images/side_bg.png);
+	background-repeat: repeat;
+}
+#Box3SliceContainer_top_2 {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-image: url(images/side_top.png);
+	overflow: hidden;
+	display: inline;
+	float: left;
+	height: 53px;
+	margin-bottom: 0;
+	width: 315px;
+}
+#Div2 {
+	margin-left: 9px;
+	margin-top: -46px;
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+	background-color: #333;
+	width: 290px;
+	padding-top: 0px;
+	height: 44px;
+}
+html > body #Div2 {
+	height: auto;
+	min-height: 45px;
+}
+#side_thumbnail {
+	margin-left: 24px;
+	margin-top: 15px;
+	display: inline;
+	float: left;
+	height: 125px;
+	margin-bottom: 0;
+	width: 125px;
+}
+#Div3 {
+	margin-left: 15px;
+	margin-top: 15px;
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+	background-color: #999;
+	width: 125px;
+	padding-top: 0px;
+	height: 124px;
+}
+html > body #Div3 {
+	height: auto;
+	min-height: 125px;
+}
+#Div4 {
+	margin-left: 24px;
+	margin-top: 15px;
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+	background-color: #999;
+	width: 125px;
+	padding-top: 0px;
+	height: 124px;
+}
+html > body #Div4 {
+	height: auto;
+	min-height: 125px;
+}
+#Div5 {
+	margin-left: 15px;
+	margin-top: 15px;
+	display: inline;
+	float: left;
+	margin-bottom: 0;
+	background-color: #999;
+	width: 125px;
+	padding-top: 0px;
+	height: 124px;
+}
+html > body #Div5 {
+	height: auto;
+	min-height: 125px;
+}
+#Box3SliceContainer_bottom_2 {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-image: url(images/side_bot.png);
+	overflow: hidden;
+	display: inline;
+	float: left;
+	height: 27px;
+	margin-bottom: 0;
+	width: 315px;
+}
+#footer {
+	margin-left: 0px;
+	margin-top: 11px;
+	background-image: url(images/footer.png);
+	overflow: hidden;
+	display: inline;
+	float: left;
+	height: 25px;
+	margin-bottom: 0;
+	width: 1000px;
+}

@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://musiccanbefun.edankwan.com/
+[DOC#132]
+BASEURL=http://platform.twitter.com/widgets/tweet_button.html
+ORIGURL=http://platform.twitter.com/widgets/tweet_button.html#_=1312446522953&count=horizontal&id=twitter_tweet_button_0&lang=en&original_referer=http%3A%2F%2Fmusiccanbefun.edankwan.com%2F&text=Music%20can%20be%20fun%20-%20Edan%20Kwan&url=http%3A%2F%2Fmusiccanbefun.edankwan.com&via=edankwan
+[InternetShortcut]
+URL=http://musiccanbefun.edankwan.com/
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

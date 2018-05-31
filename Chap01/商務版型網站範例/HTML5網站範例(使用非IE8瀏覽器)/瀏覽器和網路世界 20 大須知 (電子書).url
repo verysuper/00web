@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://www.20thingsilearned.com/zh-TW/old-vs-new-browsers/1
+[InternetShortcut]
+URL=http://www.20thingsilearned.com/zh-TW
+IDList=
+IconFile=http://www.20thingsilearned.com/favicon.ico
+IconIndex=1
+HotKey=0
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

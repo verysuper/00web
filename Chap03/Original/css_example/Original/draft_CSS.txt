@@ -1,0 +1,44 @@
+﻿body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 100%;
+	color: #000;
+	background-color: #CCC;
+	margin: 0px;
+}
+#wrapper {
+	background-color: #F00;
+	height: 500px;
+	width: 750px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper #header {
+	background-color: #0F0;
+	float: left;
+	height: 80px;
+	width: 750px;
+}
+#wrapper #navigation {
+	background-color: #00F;
+	float: left;
+	height: 20px;
+	width: 750px;
+}
+#wrapper #content {
+	background-color: #FF0;
+	float: left;
+	height: 380px;
+	width: 550px;
+}
+#wrapper #sidebar {
+	background-color: #0FF;
+	float: right;
+	height: 380px;
+	width: 200px;
+}
+#wrapper #footer {
+	background-color: #F0F;
+	height: 20px;
+	width: 750px;
+	clear: both;
+}

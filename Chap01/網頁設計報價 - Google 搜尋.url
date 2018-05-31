@@ -1,0 +1,17 @@
+[DEFAULT]
+BASEURL=https://www.google.com.tw/search?q=網頁設計報價
+[DEFAULT.A]
+BASEURL=https://www.google.com.tw/search?q=網頁設計報價
+[DEFAULT.W]
+BASEURL=https://www.google.com.tw/search?q+AD19spgBii2KCFgxUPk-
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.google.com.tw/search?q=網頁設計報價
+IconFile=https://www.google.com.tw/images/branding/product/ico/googleg_lodp.ico
+IconIndex=1
+[InternetShortcut.A]
+URL=https://www.google.com.tw/search?q=網頁設計報價
+[InternetShortcut.W]
+URL=https://www.google.com.tw/search?q+AD19spgBii2KCFgxUPk-

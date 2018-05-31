@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://kotori.fostex.jp/
+[InternetShortcut]
+URL=http://kotori.fostex.jp/
+IDList=
+IconFile=http://kotori.fostex.jp/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

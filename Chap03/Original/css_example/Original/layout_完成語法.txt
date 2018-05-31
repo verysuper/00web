@@ -1,0 +1,41 @@
+﻿◎<head>......</head>之間的CSS語法：
+
+<style type="text/css">
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 100%;
+	color: #000;
+	background-color: #CCC;
+	margin: 0px;
+}
+#wrapper {
+	width: 770px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper #header {
+	float: left;
+	width: 770px;
+}
+#wrapper #navigation {
+	float: left;
+	width: 770px;
+}
+#wrapper #content {
+	float: left;
+	width: 770px;
+}
+#wrapper #footer {
+	width: 770px;
+	clear: both;
+}
+</style>
+
+
+◎<body>......</body>之間的HTML語法：
+<div id="wrapper">
+  <div id="header"> id "header" 的內容放在這裡</div>
+  <div id="navigation"> id "navigation" 的內容放在這裡</div>
+  <div id="content"> id "content" 的內容放在這裡</div>
+  <div id="footer"> id "footer" 的內容放在這裡</div>
+</div>

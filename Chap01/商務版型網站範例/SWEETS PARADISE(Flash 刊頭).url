@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://www.sweets-paradise.jp/index.html
+[DOC_twitter-widget-1]
+BASEURL=http://www.sweets-paradise.jp/index.html
+ORIGURL=
+[DOC_rufous-sandbox]
+BASEURL=http://www.sweets-paradise.jp/index.html
+ORIGURL=
+[InternetShortcut]
+URL=http://www.sweets-paradise.jp/index.html
+IDList=
+IconFile=http://www.sweets-paradise.jp/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
